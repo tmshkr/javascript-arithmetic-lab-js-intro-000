@@ -1,31 +1,31 @@
-add(a, b){
-    
+function add(a, b){
+    return a + b;
 }
 
-subtract(a, b){
-    
+function subtract(a, b){
+
 }
 
-multiply(a, b){
-    
+function multiply(a, b){
+
 }
 
-divide(a, b){
-    
+function divide(a, b){
+
 }
 
-inc(n){
-    
+function inc(n){
+
 }
 
-dec(n){
-    
+function dec(n){
+
 }
 
-makeInt(n){
-    
+function makeInt(n){
+
 }
 
-preserveDecimal(n){
+function preserveDecimal(n){
     
 }
